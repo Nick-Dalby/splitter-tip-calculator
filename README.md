@@ -13,6 +13,7 @@ Frontend mentor tip calculator built with React
 **Tech used:** HTML, CSS, JavaScript, React
 
 Tip calculator challenge from [Frontend Mentor](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX)
+
 Features:
 
 - form with controlled radio inputs
